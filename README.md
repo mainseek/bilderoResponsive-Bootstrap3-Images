@@ -41,9 +41,9 @@ parameter options is an Object it can override some predefined settings availabl
 
 <!------EXAMPLES------>
 <h2>Examples</h2>
-http://dev.player.bildero.pl/bootstrap3/1/
-http://dev.player.bildero.pl/bootstrap3/2/
-http://dev.player.bildero.pl/bootstrap3/3/
-http://dev.player.bildero.pl/bootstrap3/4/
-http://dev.player.bildero.pl/bootstrap3/5/ - fluid layout
-http://dev.player.bildero.pl/bootstrap3/6/
+http://dev.player.bildero.pl/bootstrap3/1/ <br>
+http://dev.player.bildero.pl/bootstrap3/2/ <br>
+http://dev.player.bildero.pl/bootstrap3/3/ <br>
+http://dev.player.bildero.pl/bootstrap3/4/ <br>
+http://dev.player.bildero.pl/bootstrap3/5/ - fluid layout <br>
+http://dev.player.bildero.pl/bootstrap3/6/ <br>
